@@ -32,10 +32,7 @@ This project analyzes e-commerce sales data using Python (Pandas, Seaborn) and T
 - Compared performance across sales channels (Amazon vs. Other Sales Channel)
 
 
-# How to Use:
-1. Open the Jupyter Notebook from the `notebooks` folder to view code and EDA.
-2. Use the `ecom_data_cleaned.csv` for the analysis or to explore in Tableau.
-3. Open the Tableau dashboard from the `tableau` folder to interact with filters, charts, and KPIs.
+
    
 
 
